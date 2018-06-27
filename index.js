@@ -15,3 +15,8 @@ function inc(a) {
  (a++); 
  return (a)
 }
+
+function inc(a) {
+  (a--);
+  return(a)
+}
