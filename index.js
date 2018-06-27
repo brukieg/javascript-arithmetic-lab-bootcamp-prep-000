@@ -13,6 +13,6 @@ function divide(a,b) {
 var n = 5
 
 function inc(n) {
-n +=3;
+n ++;
 console.log(n);
 }
