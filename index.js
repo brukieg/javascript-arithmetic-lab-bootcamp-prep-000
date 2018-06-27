@@ -16,4 +16,3 @@ var n = 5;
 function inc(n) {
 n ++;
 }
-console.log(n);
