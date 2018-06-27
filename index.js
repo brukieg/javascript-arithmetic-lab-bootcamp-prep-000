@@ -14,7 +14,6 @@ function divide(a,b) {
 var n = 5;
 
 function inc(n) {
-a ++;
+n ++;
 }
-console.log(a);
-}
+console.log(n);
