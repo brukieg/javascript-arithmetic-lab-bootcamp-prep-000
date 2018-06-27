@@ -11,5 +11,7 @@ function divide(a,b) {
   return (a / b);
 }
 var n = 5
+function inc(n) {
 n ++;
 console.log(n);
+}
