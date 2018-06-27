@@ -16,7 +16,7 @@ function inc(a) {
  return (a)
 }
 
-function inc(a) {
+function dec(a) {
   (a--);
   return(a)
 }
