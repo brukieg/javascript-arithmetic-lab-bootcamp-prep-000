@@ -11,8 +11,8 @@ function divide(a,b) {
   return (a / b);
 }
 
-var n = 5;
+var number = 5;
 
-function inc(n) {
-n ++;
+function add5() {
+number += 5;
 }
