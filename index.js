@@ -10,4 +10,5 @@ function multiply(a,b) {
 function divide(a,b) {
   return (a / b)
 }
-number = 5
+var number = 5
+number +=3;
